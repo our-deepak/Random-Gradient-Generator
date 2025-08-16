@@ -26,6 +26,5 @@ Users can easily **select the color code text** and copy it manually.
 ---
 
 ## 💻 How to Use
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/our-deepak/Random-Gradient-Generator.git]
+1. Clone the repository
+2. Just open the `index.html` file in your browser
