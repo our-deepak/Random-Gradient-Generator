@@ -31,4 +31,4 @@ Users can easily **select the color code text** and copy it manually.
 ## 💻 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/random-color-generator.git
+   git clone [https://github.com/our-deepak/Random-Gradient-Generator.git]
