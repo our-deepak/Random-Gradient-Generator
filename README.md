@@ -15,7 +15,7 @@ Users can easily **select the color code text** and copy it manually.
 ---
 
 ## 🚀 Live Demo
-[Click here to try the app](#) 
+[[Click here to try the app](https://our-deepak.github.io/Random-Gradient-Generator/)](#) 
 
 ---
 
