@@ -23,14 +23,6 @@ Users can easily **select the color code text** and copy it manually.
 
 ![Preview](./screenshot.png)
 
-
-## 📂 Project Structure
-├── index.html # Main HTML file
-├── style.css # Styling
-├── script.js # JavaScript logic
-└── README.md # Project documentation
-
-
 ---
 
 ## 💻 How to Use
