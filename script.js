@@ -1,6 +1,6 @@
 let hexarr = "0123456789ABCDEF";
-let code1="#123456";
-let code2="#ABCDEF";
+let code1="#D4238B";
+let code2="#16A0E6";
 let text= document.querySelector('.colorcode');
 const changecode1 = ()=>{
     code1="#";
@@ -24,4 +24,5 @@ document.getElementById('btn1').addEventListener("click",()=>{
 document.getElementById('btn2').addEventListener("click",()=>{
     changecode2();
     applyGradient();
+
 });
